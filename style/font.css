@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Erotica';
+    src: url('../font/EroticaSmallPro.woff');
+}
+@font-face {
+    font-family: 'sf-reguler';
+    src: url('../font/SF-Pro-Text-Regular.otf');
+}
+@font-face {
+    font-family: 'sf-semi';
+    src: url('../font/SF-Pro-Text-Semibold.otf');
+}
+@font-face {
+    font-family: 'sf-medium';
+    src: url('../font/SF-Pro-Text-Medium.otf');
+}
+
+body{
+    font-family: sf-reguler;
+    color: #070707;
+}
+body#hytam{
+    font-family: sf-reguler;
+    color: #f8f8f8;
+}
+h1{
+    font-family: sf-semi;
+}
+h2{
+    font-family: sf-reguler;
+}
+p{
+    font-family: sf-medium;
+}
+.sfreg{
+    font-family: sf-reg;
+}
+.sfsemi{
+    font-family: sf-semi;
+}
